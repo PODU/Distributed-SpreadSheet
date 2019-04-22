@@ -1,7 +1,7 @@
 <h1>Distributed SpreadSheet</h1>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a Dual Server and Multi Client System that can operate in Distributed Format as It maintains, the properties of a Distributed System ie. Easy Scalability, Failure Handeling, Backup Protocols, etc.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This System is implemented using the JAVA Client-Server methodology. In it We hava connected the Application to a MySQL Server for handaling the Login and SignUp System also the File Access Privilage Level</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This System is implemented using the JAVA Client-Server methodology. In it We hava connected the Application to a MySQL Server for handaling the Login and SignUp System also the File Access Privilage Level.</p>
 
 <h2>Login & SignUP</h2>
 <img src="ScreenShots/7.png" alt="LOGIN" style="width:700px;">
